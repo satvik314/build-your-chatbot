@@ -36,6 +36,8 @@ Learn how to build AI chatbots using OpenAI and Google Gemini APIs with Streamli
 6. In Advanced Settings, add your API key: `OPENAI_API_KEY`
 7. Deploy! 🎉
 
+> 💡 **Note:** Want a chatbot where users can customize its behavior? Use `gemini_chat_with_system_prompt.py` or `openai_chat_with_system_prompt.py` instead!
+
 ---
 
 ## 🔑 Get Your API Keys
@@ -46,4 +48,3 @@ Learn how to build AI chatbots using OpenAI and Google Gemini APIs with Streamli
 ---
 
 ❤️ Made by [Build Fast with AI](https://buildfastwithai.com)
-
